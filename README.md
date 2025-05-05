@@ -18,7 +18,6 @@ Make a copy of this curriculum for yourself. After reading a sub-doc, please wri
   - [How to quit 1:1s](docs/how-to-quit-1-1s.md) (2 min)
   - [CEO teachings](docs/ceo-teachings.md)
 - [Matt Mochary Bio: Coach](docs/matt-mochary-bio-coach.md) (2 min to read)
-  - [CEO testimonials for Mochary coaching](./ceo-testimonials-for-mochary-coaching.md)
 - [Mochary Method Curriculum](#) (many hours to read, please use as a reference only)
 - [Mochary Method Coaches](http://mocharymethod.com/#coaches)
 - [Mochary coaching method (CEO 1-1)](docs/mochary-coaching-method-ceo-1-1.md) (5 min to read)
@@ -220,11 +219,9 @@ Make a copy of this curriculum for yourself. After reading a sub-doc, please wri
   - All Hands: [Leadership and Inspiration: How to create it](docs/leadership-and-inspiration-how-to-create-it.md) (6 min)
   - [Leadership vs Team Leads Meeting](docs/leadership-vs-team-leads-meeting.md) (3 min)
   - [Offsite](docs/offsite.md) (1 min)
-  - [Offsites, big](./offsites-big.md) (by Matthew Holbreich, CoS at Medable)
   - [Meeting Tracker \- example](https://docs.google.com/spreadsheets/d/1lPQPptVXvLwM8q5XiD5Weq9HcrZDVUUe8szB8e_sb5Q/edit#gid=0) (2 min)
   - [Transition: How to successfully transition a group to a new method](docs/transition-how-to-successfully-transition-a-group-to-a-new-method.md) (2 min)
   - [Efficient Async Discussions](https://www.notion.so/mm-coaches/Efficient-Async-Discussions-8c070c841f0444e49e61fc14685e7435) (5 min)
-
   - [How to Use the companyOS Software](https://www.loom.com/share/b9c43fdcfc144978aa9240e17f4986d1) (4 min)
 
 - [Decision-Making](docs/decision-making.md) (8 min)
@@ -259,7 +256,6 @@ Make a copy of this curriculum for yourself. After reading a sub-doc, please wri
   - [OKR Creation](docs/okr-creation.md) (6 min)
     - [OKR Tracker, example](https://docs.google.com/spreadsheets/d/1_TgYK7fHvUXWrcIhGgUeeq8OoFi0LQ6usQm3r7owZA0/edit) (2 min)
   - [Goals: How to Create Them](docs/goals-how-to-create-them.md) (1 min)
-  - [Goals Review: How to keep a pulse on your entire company\!](goals-review-how-to-keep-a-pulse-on-your-entire-company.md)
   - [AORs](docs/aors.md) (2 min)
   - [Process Audit](docs/process-audit.md)
     - [Processes Template](https://docs.google.com/spreadsheets/d/1ky1BNH7f1xVa-hw7WOxI298a2nNP81OdORpbKdxLCj4/edit#gid=0)
@@ -420,7 +416,6 @@ Make a copy of this curriculum for yourself. After reading a sub-doc, please wri
 ### FAQ
 
 - [Q\&A with Matt Mochary](docs/q-a-with-matt-mochary.md) (20 min)
-- [Mochary Method curriculum \- private docs](docs/mochary-method-curriculum-private-docs.md)
 
 ### Blog Posts
 
